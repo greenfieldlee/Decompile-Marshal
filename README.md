@@ -9,7 +9,7 @@
 - python -m pip install uncompyle6
 - python2 -m pip install uncompyle6
 - git clone https://github.com/ExGeneralTz/Decompile-Marshal
--
+
 • Cara Memakainya?
 - Masukan code Marshal ke code.py dan pilih mana yang mau anda uncompile.
 
